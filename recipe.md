@@ -1,4 +1,4 @@
-# Delicious Chocolate Cake Recipe
+# Delicious Cheese Chocolate Cake Recipe
 
 ## Ingredients:
 - 2 cups all-purpose flour
@@ -6,6 +6,7 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
+- 2 pieces of cheese
 - ...
 
 ## Instructions:
